@@ -26,16 +26,16 @@
 - [Reading 14:
 
 ## Ops Challenges
-- [Challenge 2:
-- [Challenge 3:
-- [Challenge 4:
-- [Challenge 5:
-- [Challenge 6:
-- [Challenge 7:
-- [Challenge 8:
-- [Challenge 9:
-- [Challenge 10:
-- [Challenge 11:
+- [Challenge 2: helloworld.sh](ops2-helloworld.sh)
+- [Challenge 3: Function](ops3-function.sh)
+- [Challenge 4: Array](ops4-array.sh)
+- [Challenge 5: Loops](ops5-loops.sh)
+- [Challenge 6: Conditionals](ops6-conditionals.sh)
+- [Challenge 7: System Information (Grep)](ops7-grep.sh)
+- [Challenge 8: Windows Batch Scripting (Robocopy)](ops8-robocopy.sh)
+- [Challenge 9: Log Retrieval via Powershell](ops9-eventlog.ps1)
+- [Challenge 10: System Process Commands](ops10-systemprocess.ps1)
+- [Challenge 11: Automated Endpoint Configuration](ops11-endpointconfig.ps1)
 
 
 ## Questions

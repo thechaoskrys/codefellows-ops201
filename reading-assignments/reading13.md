@@ -23,4 +23,4 @@
 
 ## Things I want to know more about 
 
-https://www.joe0.com/2017/06/11/importance-of-virtualization-in-the-amazon-ec2-cloud/
+[Virtualization in the Amazon EC2](https://www.joe0.com/2017/06/11/importance-of-virtualization-in-the-amazon-ec2-cloud/)

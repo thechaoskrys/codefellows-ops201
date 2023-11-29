@@ -26,4 +26,4 @@
 
 ## Things I want to know more about 
 
-https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop
+[Writing an SOP](https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop)

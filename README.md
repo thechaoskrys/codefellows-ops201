@@ -23,7 +23,7 @@
 - [Reading 11: Data Restoration, Startup Repair, and Secure Disposal](reading-assignments/reading11.md)
 - [Reading 12: Virtualizing a Router with pfSense](reading-assignments/reading12.md)
 - [Reading 13: Cloud Virtualization with AWS](reading-assignments/reading13.md)
-- [Reading 14: Malware Remediation Tools and Technique](reading-assignments/reading14.md
+- [Reading 14: Malware Remediation Tools and Technique](reading-assignments/reading14.md)
 
 ## Ops Challenges
 - [Challenge 2: helloworld.sh](ops2-helloworld.sh)

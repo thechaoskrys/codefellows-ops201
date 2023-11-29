@@ -39,7 +39,7 @@
 - [Reading 13: Cloud Virtualization with AWS](reading-assignments/reading13.md)
 - [Reading 14: Malware Remediation Tools and Technique](reading-assignments/reading14.md)
 
-### Ops Challenges
+### Code Challenges
 - [Challenge 2: helloworld.sh](ops2-helloworld.sh)
 - [Challenge 3: Function](ops3-function.sh)
 - [Challenge 4: Array](ops4-array.sh)

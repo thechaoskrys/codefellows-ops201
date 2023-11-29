@@ -26,5 +26,6 @@
 
 ## Things I want to know more about 
 
-https://www.theregister.com/2019/02/26/malware_ibm_powershell/
-https://www.techthoughts.info/ps1-should-you-learn-powershell/
+### Resources
+[Malware IBM PowerShell](https://www.theregister.com/2019/02/26/malware_ibm_powershell/)
+[Should You Learn PowerShell](https://www.techthoughts.info/ps1-should-you-learn-powershell/)

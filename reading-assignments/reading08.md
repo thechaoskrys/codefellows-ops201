@@ -23,4 +23,4 @@
 
 ## Things I want to know more about 
 
-https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/
+[Windows Reigstry Demystified](https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/)

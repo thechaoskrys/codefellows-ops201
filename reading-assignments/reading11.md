@@ -25,4 +25,4 @@
 
 ## Things I want to know more about 
 
-https://www.n-able.com/blog/ssd-data-recovery-best-practices
+[SSD Data Recovery - Best Practices](https://www.n-able.com/blog/ssd-data-recovery-best-practices)

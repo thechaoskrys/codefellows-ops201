@@ -2,13 +2,13 @@
 
 ## Foundations of Computer Operations
 
-## About
+### About
 - This repository contains all assignments (readings and ops challenges) during my time as an Ops 201 student at Code Fellows, located in Seattle.
 
-## Why learn these skills?
+### Why learn these skills?
 - For any Cybersecurity professional, it is important to learn the fundamental basics of the technical field. These skills are being learned to ensure that I can be an examplary addition to future employers. We have learned to efficiently solve problems and document appropriately, as well as 
 
-## Fundamental Concepts
+### Fundamental Concepts
 -
 
 ### Reading Assignments
@@ -27,7 +27,7 @@
 - [Reading 13: Cloud Virtualization with AWS](reading-assignments/reading13.md)
 - [Reading 14: Malware Remediation Tools and Technique](reading-assignments/reading14.md)
 
-## Ops Challenges
+### Ops Challenges
 - [Challenge 2: helloworld.sh](ops2-helloworld.sh)
 - [Challenge 3: Function](ops3-function.sh)
 - [Challenge 4: Array](ops4-array.sh)
@@ -40,7 +40,7 @@
 - [Challenge 11: Automated Endpoint Configuration](ops11-endpointconfig.ps1)
 
 
-## Questions
+### Questions
 
 1. **How can these examples of shell scripting be applied to the workplace?**
 -

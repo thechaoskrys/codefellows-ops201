@@ -40,16 +40,16 @@
 - [Reading 14: Malware Remediation Tools and Technique](reading-assignments/reading14.md)
 
 ### Code Challenges
-- [Challenge 2: helloworld.sh](ops2-helloworld.sh)
-- [Challenge 3: Function](ops3-function.sh)
-- [Challenge 4: Array](ops4-array.sh)
-- [Challenge 5: Loops](ops5-loops.sh)
-- [Challenge 6: Conditionals](ops6-conditionals.sh)
-- [Challenge 7: System Information (Grep)](ops7-grep.sh)
-- [Challenge 8: Windows Batch Scripting (Robocopy)](ops8-robocopy.sh)
-- [Challenge 9: Log Retrieval via Powershell](ops9-eventlog.ps1)
-- [Challenge 10: System Process Commands](ops10-systemprocess.ps1)
-- [Challenge 11: Automated Endpoint Configuration](ops11-endpointconfig.ps1)
+- [Challenge 2: helloworld.sh](code-challenges/ops02-helloworld.sh)
+- [Challenge 3: Function](code-challenges/ops03-function.sh)
+- [Challenge 4: Array](code-challenges/ops04-array.sh)
+- [Challenge 5: Loops](code-challenges/ops05-loops.sh)
+- [Challenge 6: Conditionals](code-challenges/ops06-conditionals.sh)
+- [Challenge 7: System Information (Grep)](code-challenges/ops07-grep.sh)
+- [Challenge 8: Windows Batch Scripting (Robocopy)](code-challenges/ops08-robocopy.sh)
+- [Challenge 9: Log Retrieval via Powershell](code-challenges/ops09-eventlog.ps1)
+- [Challenge 10: System Process Commands](code-challenges/ops10-systemprocess.ps1)
+- [Challenge 11: Automated Endpoint Configuration](code-challenges/ops11-endpointconfig.ps1)
 
 
 ### Questions

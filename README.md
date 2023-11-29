@@ -6,10 +6,22 @@
 - This repository contains all assignments (readings and ops challenges) during my time as an Ops 201 student at Code Fellows, located in Seattle.
 
 ### Why learn these skills?
-- For any Cybersecurity professional, it is important to learn the fundamental basics of the technical field. These skills are being learned to ensure that I can be an examplary addition to future employers. We have learned to efficiently solve problems and document appropriately, as well as 
+- For any Cybersecurity professional, it is important to learn the fundamental basics of the technical field. These skills are being learned to ensure that I can be an examplary addition to future employers. We have learned to efficiently solve problems and document appropriately, as well as the fundamental concepts listed below. 
 
 ### Fundamental Concepts
--
+- Backup/Restore: Windows System Restore Tool
+- Command line shell (Bash/Powershell)
+- Help desk support
+- Troubleshooting Methodology
+- Windows Command Line Tools
+- Windows Defender Security Center
+- Windows Registry
+- Standard Operating Procedure (SOPs)
+- Backup and Disaster Recovery
+- Data Restoration and Startup Repair
+- pfSense: Virtualizing a router
+- Cloud Virtualization with AWS
+- Malware Remediation Tools and Technique
 
 ### Reading Assignments
 - [Reading 1: Backup Your System](reading-assignments/reading01.md)
@@ -43,10 +55,10 @@
 ### Questions
 
 1. **How can these examples of shell scripting be applied to the workplace?**
--
+- These examples of shell scripting may be used in the work place to identify certain scripts and what they are meant to do, identify any errors brought about by a script, and bring another advantage to the workplace.
   
 2. **What scripts would you continue to improve if you had the time?**
--
+- If I had more time to improve a certain script, I would choose to improve and learn more on all of them. There is a part of me that is interested in the analytical aspect of writing scripts and the meticulous nature of it, therefore, with more free time I would develop all scripts in my ops challenges.
   
 3. **What aspect of your shell scripting skillset do you hope to improve next?**
--
+- The aspect of my shell scripting skillset that I hope to improve next would be the ability to take in the instructions given and have a better understanding of what is expected within the script. I would like to understand all of the pieces of the script that come together and gave me the result that I want a little better.

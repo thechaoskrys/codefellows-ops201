@@ -10,20 +10,20 @@
 -
 
 ### Reading Assignments
-- [Reading 1:
-- [Reading 2:
-- [Reading 3:
-- [Reading 4:
-- [Reading 5:
-- [Reading 6:
-- [Reading 7:
-- [Reading 8:
-- [Reading 9:
-- [Reading 10:
-- [Reading 11:
-- [Reading 12:
-- [Reading 13:
-- [Reading 14:
+- [Reading 1: Backup Your System](reading-assignments/reading01.md)
+- [Reading 2: Dev Tools](reading-assignments/reading02.md)
+- [Reading 3: Issue Tracking System](reading-assignments/reading03.md)
+- [Reading 4: Troubleshooting Techniques](reading-assignments/reading04.md)
+- [Reading 5: Windows Command Line Tools](reading-assignments/reading05.md)
+- [Reading 6: Windows Security Center](reading-assignments/reading06.md)
+- [Reading 7: OS Upgrade and Remote Access](reading-assignments/reading07.md)
+- [Reading 8: System Log Analysis, Registry, Control Panel](reading-assignments/reading08.md)
+- [Reading 9: Workstation Deployment SOP](reading-assignments/reading09.md)
+- [Reading 10: Imaging, Backup, and Recovery](reading-assignments/reading10.md)
+- [Reading 11: Data Restoration, Startup Repair, and Secure Disposal](reading-assignments/reading11.md)
+- [Reading 12: Virtualizing a Router with pfSense](reading-assignments/reading12.md)
+- [Reading 13: Cloud Virtualization with AWS](reading-assignments/reading13.md)
+- [Reading 14: Malware Remediation Tools and Technique](reading-assignments/reading14.md
 
 ## Ops Challenges
 - [Challenge 2: helloworld.sh](ops2-helloworld.sh)
